@@ -29,7 +29,7 @@ le query sopno contenute nelle liste sotto le consegne
     
 - **Da quanti dipartimenti è composta l'università? (12)**
     
-   - SELECT * FROM `departments`
+   - SELECT COUNT(*) FROM `departments`
     
 - **Quanti sono gli insegnanti che non hanno un numero di telefono? (50)**
     
