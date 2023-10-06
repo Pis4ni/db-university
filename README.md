@@ -14,3 +14,8 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 - ogni Studente può iscriversi a più appelli di Esame;
 - per ogni appello d'Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
 Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi di stabilirne le relazioni. Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
+
+### Proseguimento traccia (day 2)
+
+Il lavoro di oggi va aggiunto alla repo di ieri.
+Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
